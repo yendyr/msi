@@ -1,0 +1,280 @@
+[24-Jul-2021 12:28:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Jul-2021 19:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Aug-2021 17:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Aug-2021 08:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Aug-2021 14:45:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Aug-2021 05:21:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Aug-2021 16:54:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Aug-2021 07:32:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Aug-2021 02:28:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Aug-2021 05:37:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Aug-2021 19:10:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Aug-2021 11:39:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Aug-2021 15:33:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2021 19:10:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Aug-2021 04:42:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Aug-2021 08:43:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Aug-2021 08:36:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Aug-2021 15:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Aug-2021 22:35:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Aug-2021 10:58:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Aug-2021 11:29:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Aug-2021 07:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Sep-2021 23:25:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Sep-2021 06:33:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Sep-2021 00:53:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Sep-2021 16:06:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Sep-2021 03:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Sep-2021 06:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Sep-2021 00:00:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Sep-2021 18:52:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Sep-2021 17:16:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Sep-2021 19:32:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2021 18:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 23:48:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Sep-2021 17:08:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2021 16:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Sep-2021 00:01:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Sep-2021 04:47:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Oct-2021 22:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Oct-2021 09:02:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Oct-2021 15:21:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Oct-2021 13:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Oct-2021 10:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Oct-2021 14:35:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Oct-2021 10:35:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Oct-2021 13:50:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Oct-2021 05:22:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Oct-2021 16:29:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Oct-2021 06:11:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Oct-2021 06:43:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Oct-2021 09:07:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Oct-2021 10:10:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2021 04:17:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2021 06:59:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Oct-2021 03:59:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Oct-2021 04:34:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Oct-2021 06:47:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Oct-2021 11:56:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Oct-2021 22:43:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Oct-2021 07:45:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Oct-2021 21:12:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Oct-2021 02:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2021 16:38:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2021 20:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2021 21:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Oct-2021 20:16:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Oct-2021 05:21:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Oct-2021 16:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2021 19:53:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Nov-2021 10:51:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

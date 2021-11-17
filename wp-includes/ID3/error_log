@@ -1,0 +1,24 @@
+[08-May-2020 00:21:58 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[11-May-2020 05:20:35 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[14-May-2020 13:14:42 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[26-May-2020 14:47:18 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[27-May-2020 07:48:56 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[23-Jul-2020 19:22:33 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

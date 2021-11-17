@@ -1,0 +1,100 @@
+[24-Jul-2021 12:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/border.php on line 170
+[24-Jul-2021 12:02:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/duotone.php on line 426
+[24-Jul-2021 12:03:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/msiindon/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/elements.php on line 71
+[24-Jul-2021 12:03:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/layout.php on line 99
+[24-Jul-2021 12:04:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/spacing.php on line 89
+[16-Oct-2021 06:08:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/border.php on line 170
+[16-Oct-2021 06:08:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/duotone.php on line 426
+[16-Oct-2021 06:08:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/msiindon/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/elements.php on line 71
+[16-Oct-2021 06:08:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/layout.php on line 99
+[16-Oct-2021 06:08:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/spacing.php on line 89
+[17-Oct-2021 06:38:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/border.php on line 170
+[17-Oct-2021 06:38:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/duotone.php on line 426
+[17-Oct-2021 06:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/msiindon/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/elements.php on line 71
+[17-Oct-2021 06:38:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/layout.php on line 99
+[17-Oct-2021 06:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/spacing.php on line 89
+[20-Oct-2021 04:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/border.php on line 170
+[20-Oct-2021 04:30:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/duotone.php on line 426
+[20-Oct-2021 04:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/msiindon/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/elements.php on line 71
+[20-Oct-2021 04:31:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/layout.php on line 99
+[20-Oct-2021 04:31:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/spacing.php on line 89
+[21-Oct-2021 11:43:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/border.php on line 170
+[21-Oct-2021 11:44:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/duotone.php on line 426
+[21-Oct-2021 11:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/msiindon/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/elements.php on line 71
+[21-Oct-2021 11:44:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/layout.php on line 99
+[21-Oct-2021 11:45:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/msiindon/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/msiindon/public_html/wp-includes/block-supports/spacing.php on line 89
